@@ -1,0 +1,9 @@
+{
+  "domain": "hko_wind_speed",
+  "name": "Hong Kong Observatory [Wind Speed]",
+  "codeowners": ["@SinopsysHK"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/hko",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}

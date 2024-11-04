@@ -249,6 +249,7 @@ FLOWS = {
         "hisense_aehw4a1",
         "hive",
         "hko",
+        "hko_wind_speed",
         "hlk_sw16",
         "holiday",
         "home_connect",
